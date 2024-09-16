@@ -31,6 +31,13 @@ npm run build
 # or
 yarn build
 ```
+## ⚙️ Database
+
+Test .tmp and .env included.
+
+Login:
+email@domain.com
+Admin123
 
 ## ⚙️ Deployment
 
